@@ -1,0 +1,12 @@
+                       
+                          Principais indicadores de doenças cardíacas
+Dados da pesquisa anual do CDC de 2022 de mais de 400 mil adultos relacionados ao seu estado de saúde
+
+    Qual assunto o conjunto de dados cobre?
+De acordo com o CDC, as doenças cardíacas são uma das principais causas de morte para pessoas da maioria das raças nos EUA (afro-americanos, índios americanos e nativos do Alasca e brancos). Cerca de metade de todos os americanos (47%) têm pelo menos 1 dos 3 principais fatores de risco para doenças cardíacas: pressão alta, colesterol alto e tabagismo. Outros indicadores importantes incluem diabetes, obesidade (IMC alto), não praticar atividade física suficiente ou beber muito álcool. Identificar e prevenir os fatores que têm maior impacto nas doenças cardíacas é muito importante na área da saúde. Por sua vez, os desenvolvimentos na computação permitem a aplicação de métodos de aprendizado de máquina para detectar "padrões" nos dados que podem prever a condição de um paciente.
+
+    Conjunto de dados
+O conjunto de dados foi obtido por amostragem e adaptação do conjunto de dados original do Kaggle. Cada linha no conjunto de dados corresponde a um indivíduo diferente. Algumas colunas são as respostas a perguntas feitas aos entrevistados sobre seu estado de saúde, como "Você tem sérias dificuldades para andar ou subir escadas?" ou "Você já fumou pelo menos 100 cigarros em toda a sua vida?" O alvo é a variável Heart Disease, que indica se os entrevistados já relataram ter doença cardíaca coronária (CHD) ou infarto do miocárdio.
+Vide o link abaixo:
+https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
+
